@@ -1,0 +1,1 @@
+# Cypress scripts for automated testing.
